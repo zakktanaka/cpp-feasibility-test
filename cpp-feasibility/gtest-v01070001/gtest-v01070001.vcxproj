@@ -19,9 +19,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{37A5CF70-FA4F-4FD3-A974-47FF3D24DABA}</ProjectGuid>
+    <ProjectGuid>{A6F5A0B5-FDFD-47BC-BFD7-0A945F3BEA6C}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>gtestfeasibility</RootNamespace>
+    <RootNamespace>gtestv01070001</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
